@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.sqlite3
+*.db
+
+# Virtual environment
+venv/
+*.egg-info/
+
+# Docker
+*.db
+*.log
+
+# Jupyter Notebook
+.ipynb_checkpoints
